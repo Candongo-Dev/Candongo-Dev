@@ -3,11 +3,9 @@
 
 - 🧑‍🔬 I’m currently working on **ETL, Veeva CRM-Salesforce and data analysis, Python, Computer Vision, data visualization tools**
 
-- 🧠 I’m currently learning **Machine Learning and Python**
+- 🧠 I’m currently learning **Machine Learning / Data Science**
 
 - 🦾 I’m looking to collaborate on **Biotech-pharmaceutical area as Associate Data Scientist/ML**
-
-- 🤝 I’m looking for help with **Linkedin**
 
 - 📝 I regularly write articles on [https://medium.com/@rui_candongo/list/reading-list](https://medium.com/@rui_candongo/list/reading-list)
 
